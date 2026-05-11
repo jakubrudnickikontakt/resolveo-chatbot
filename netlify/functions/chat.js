@@ -96,7 +96,7 @@ Formularz: https://resolveo.pl/kontakt
   "Świetnie! Wypełnij krótki formularz kontaktowy, a odezwiemy się do Ciebie w ciągu 24 godzin.
 
   Znajdziesz go tutaj: https://resolveo.pl/kontakt"
-- Kieruj do formularza też gdy klient pyta o szczegóły cenowe, terminy lub chce umówić rozmowę
+- Kieruj do formularza też gdy klient pyta o szczegóły cenowe, terminy lub chce umówić rozmowę`
       ,
       messages: messages
     })
