@@ -20,7 +20,7 @@ export async function handler(event) {
     },
     body: JSON.stringify({
       model: 'claude-haiku-4-5-20251001',
-      max_tokens: 120,
+      max_tokens: 190,
       system: `Jesteś asystentem agencji Resolveo — nowoczesnej agencji cyfrowej z Katowic obsługującej firmy ze Śląska i całej Polski.
 
 === TWOJA ROLA ===
